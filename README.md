@@ -30,7 +30,8 @@ This project combines the power of Virtual Reality (VR), haptic feedback, and ga
    - Enhance user engagement and retention with immersive VR environments.
 
 4. **Cutting-Edge VR Design**  
-   - Built using [Unity](https://unity.com/) and optimized for various VR platforms.  
+   - Built using [Unity](https://unity.com/) and optimized for various VR platforms.
+   - Many 3D models created in [Blender](https://www.blender.org/)
    - Incorporates realistic textures, lighting effects, and intuitive controls.
 
 ---
@@ -68,10 +69,10 @@ VR-Roof-Experience/
 ## **📸 Screenshots**
 
 ### Roof Navigation in Action 🏠
-![Roof Navigation Screenshot](media/navigation-screenshot.png)
+![Roof Navigation Screenshot](RoofNavigationDemo.png)
 
 ### Rain Weather Simulation 🌧️
-![Rain Simulation Screenshot](media/rain-screenshot.png)
+![Rain Simulation Screenshot](VRRainDemo.png)
 
 ---
 
